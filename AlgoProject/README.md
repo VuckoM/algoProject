@@ -1,0 +1,2 @@
+# AlgoProject
+A JavaScript project
